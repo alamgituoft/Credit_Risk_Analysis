@@ -11,7 +11,7 @@ Software: Python 3.8.5 (mlenv environment), Jupyter Notebook 6.1.4
 * **Naive Random Oversampling Model**
 * **Balance accuracy score: 67.4%**
 * **Precision high risk score: 1%**
-* **Precision low risk score: 100% **
+* **Precision low risk score: 100%**
 * **Recall high risk score: 74%**
 * **Recall low risk score: 61%**
 <img width="712" alt="Naive Sampling" src="https://user-images.githubusercontent.com/81877387/130325407-efbe89a6-e47c-484a-8349-f0644444b375.png">
