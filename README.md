@@ -8,7 +8,7 @@ Software: Python 3.8.5 (mlenv environment), Jupyter Notebook 6.1.4
 ## Results 
 6 machine learning models were tested and the results of the balanced accuracy scores, precision and recall scores for the models are shown below:
 
-* **Naive Random Oversampling Model**
+**Naive Random Oversampling Model**
 * **Balance accuracy score: 67.4%**
 * **Precision high risk score: 1%**
 * **Precision low risk score: 100%**
@@ -17,7 +17,7 @@ Software: Python 3.8.5 (mlenv environment), Jupyter Notebook 6.1.4
 <img width="712" alt="Naive Sampling" src="https://user-images.githubusercontent.com/81877387/130325407-efbe89a6-e47c-484a-8349-f0644444b375.png">
 
 
-* **SMOTE Oversampling Model**
+**SMOTE Oversampling Model**
 * **Balance accuracy score: 64.4%**
 * **Precision high risk score: 1%**
 * **Precision low risk score: 100%**
@@ -26,7 +26,7 @@ Software: Python 3.8.5 (mlenv environment), Jupyter Notebook 6.1.4
 <img width="717" alt="SMOTE" src="https://user-images.githubusercontent.com/81877387/130325421-cd2aa9ee-c145-4206-84f6-3b36e5b717ca.png">
 
 
-* **Cluster Centroid Undersampling Model**
+**Cluster Centroid Undersampling Model**
 * **Balance accuracy score: 54.4 %**
 * **Precision high risk score: 1%**
 * **Precision low risk score: 100%**
@@ -35,7 +35,7 @@ Software: Python 3.8.5 (mlenv environment), Jupyter Notebook 6.1.4
 <img width="708" alt="Cluster Centriods" src="https://user-images.githubusercontent.com/81877387/130325472-0b20a810-2250-44b7-9c2c-57416eb790a9.png">
 
 
-* **SMOTEENN Sampling Model**
+**SMOTEENN Sampling Model**
 * **Balance accuracy score: 64.4 %**
 * **Precision high risk score: 1%**
 * **Precision low risk score: 100%**
@@ -45,7 +45,7 @@ Software: Python 3.8.5 (mlenv environment), Jupyter Notebook 6.1.4
 
 
 
-* **Balanced Random Forest Classifier**
+**Balanced Random Forest Classifier**
 * **Balance accuracy score: 76%**
 * **Precision high risk score: 3%**
 * **Precision low risk score: 100%**
@@ -54,7 +54,7 @@ Software: Python 3.8.5 (mlenv environment), Jupyter Notebook 6.1.4
 <img width="717" alt="Balanced Random Forest Classifier" src="https://user-images.githubusercontent.com/81877387/130325677-2950e7d8-2f9a-4321-96d6-3722983dc3b2.png">
 
 
-* **Easy Ensemble Classifier**
+**Easy Ensemble Classifier**
 * **Balance accuracy score: 93.1%**
 * **Precision high risk score: 9%**
 * **Precision low risk score: 100%**
