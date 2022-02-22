@@ -2,6 +2,8 @@
 ## Overview of the analysis
 A data analysis project that tested 6 supervised machine learning models in order to review which model is best to accurately predict credit risk. 
 
+![image](https://user-images.githubusercontent.com/81877387/155226282-acd8cc82-2577-4f65-ae97-a1c731853424.png)
+
 ## Resources
 Software: Python 3.8.5 (mlenv environment), Jupyter Notebook 6.1.4
 
